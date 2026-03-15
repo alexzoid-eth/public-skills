@@ -13,15 +13,6 @@
 [submodule "qs_skills"]
 	path = qs_skills
 	url = https://github.com/alexzoid-eth/qs_skills
-[submodule "Archethect_sc-auditor"]
-	path = Archethect_sc-auditor
-	url = https://github.com/alexzoid-eth/Archethect_sc-auditor
-[submodule "forefy_context"]
-	path = forefy_context
-	url = https://github.com/alexzoid-eth/forefy_context
 [submodule "auditmos_skills"]
 	path = auditmos_skills
 	url = https://github.com/alexzoid-eth/auditmos_skills
-[submodule "zerocoolailabs_ZeroSkills"]
-	path = zerocoolailabs_ZeroSkills
-	url = https://github.com/alexzoid-eth/zerocoolailabs_ZeroSkills
