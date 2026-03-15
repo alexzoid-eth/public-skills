@@ -1,0 +1,18 @@
+[submodule "solodit_content"]
+	path = solodit_content
+	url = https://github.com/alexzoid-eth/solodit_content
+[submodule "pashov_skills"]
+	path = pashov_skills
+	url = https://github.com/alexzoid-eth/pashov_skills
+[submodule "kadenzipfel_scv-scan"]
+	path = kadenzipfel_scv-scan
+	url = https://github.com/alexzoid-eth/kadenzipfel_scv-scan
+[submodule "trailofbits_skills"]
+	path = trailofbits_skills
+	url = https://github.com/alexzoid-eth/trailofbits_skills
+[submodule "qs_skills"]
+	path = qs_skills
+	url = https://github.com/alexzoid-eth/qs_skills
+[submodule "Archethect_sc-auditor"]
+	path = Archethect_sc-auditor
+	url = https://github.com/alexzoid-eth/Archethect_sc-auditor
