@@ -1,18 +1,18 @@
-[submodule "pashov_skills"]
-	path = pashov_skills
+[submodule "pashov"]
+	path = pashov
 	url = https://github.com/pashov/skills
-[submodule "kaden_skills"]
-	path = kaden_skills
+[submodule "kaden"]
+	path = kaden
 	url = https://github.com/kadenzipfel/scv-scan
-[submodule "trailofbits_skills"]
-	path = trailofbits_skills
+[submodule "trailofbits"]
+	path = trailofbits
 	url = https://github.com/trailofbits/skills
-[submodule "qs_skills"]
-	path = qs_skills
+[submodule "qs"]
+	path = qs
 	url = https://github.com/quillai-network/qs_skills
-[submodule "auditmos_skills"]
-	path = auditmos_skills
+[submodule "auditmos"]
+	path = auditmos
 	url = https://github.com/auditmos/skills
-[submodule "plamen_skills"]
-	path = plamen_skills
+[submodule "plamen"]
+	path = plamen
 	url = https://github.com/PlamenTSV/plamen
