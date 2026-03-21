@@ -16,3 +16,6 @@
 [submodule "auditmos_skills"]
 	path = auditmos_skills
 	url = https://github.com/auditmos/skills
+[submodule "plamen"]
+	path = plamen
+	url = https://github.com/PlamenTSV/plamen
