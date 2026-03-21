@@ -1,6 +1,3 @@
-[submodule "solodit_content"]
-	path = solodit_content
-	url = https://github.com/solodit/solodit_content
 [submodule "pashov_skills"]
 	path = pashov_skills
 	url = https://github.com/pashov/skills
