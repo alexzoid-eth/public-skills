@@ -4,8 +4,8 @@
 [submodule "pashov_skills"]
 	path = pashov_skills
 	url = https://github.com/pashov/skills
-[submodule "kadenzipfel_scv-scan"]
-	path = kadenzipfel_scv-scan
+[submodule "kaden_skills"]
+	path = kaden_skills
 	url = https://github.com/kadenzipfel/scv-scan
 [submodule "trailofbits_skills"]
 	path = trailofbits_skills
@@ -16,6 +16,6 @@
 [submodule "auditmos_skills"]
 	path = auditmos_skills
 	url = https://github.com/auditmos/skills
-[submodule "plamen"]
-	path = plamen
+[submodule "plamen_skills"]
+	path = plamen_skills
 	url = https://github.com/PlamenTSV/plamen
