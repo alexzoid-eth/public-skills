@@ -16,3 +16,6 @@
 [submodule "plamen"]
 	path = plamen
 	url = https://github.com/PlamenTSV/plamen
+[submodule "devdacian"]
+	path = devdacian
+	url = https://github.com/devdacian/ai-auditor-primers
