@@ -1,9 +1,6 @@
 [submodule "pashov"]
 	path = pashov
 	url = https://github.com/pashov/skills
-[submodule "kaden"]
-	path = kaden
-	url = https://github.com/kadenzipfel/scv-scan
 [submodule "trailofbits"]
 	path = trailofbits
 	url = https://github.com/trailofbits/skills
