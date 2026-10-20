@@ -10,6 +10,7 @@ pointing at the upstream repositories of audit firms and security researchers.
 
 | Directory | Source | Upstream |
 |---|---|---|
+| `0xsimao` | 0xSimao (accounting-first attack lenses) | [0xsimao/0xsimao-ai](https://github.com/0xsimao/0xsimao-ai) |
 | `auditmos` | Auditmos (DeFi domain audit skills) | [auditmos/skills](https://github.com/auditmos/skills) |
 | `devdacian` | Dacian (AI auditor primers) | [devdacian/ai-auditor-primers](https://github.com/devdacian/ai-auditor-primers) |
 | `kaden` | Kaden Zipfel (SCV Scan skill) | [kadenzipfel/scv-scan](https://github.com/kadenzipfel/scv-scan) |

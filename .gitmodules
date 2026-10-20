@@ -31,3 +31,6 @@
 [submodule "composablesecurity"]
 	path = composablesecurity
 	url = https://github.com/ComposableSecurity/SCSVS
+[submodule "0xsimao"]
+	path = 0xsimao
+	url = https://github.com/0xsimao/0xsimao-ai
