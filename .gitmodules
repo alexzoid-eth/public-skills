@@ -16,3 +16,6 @@
 [submodule "devdacian"]
 	path = devdacian
 	url = https://github.com/devdacian/ai-auditor-primers
+[submodule "kaden"]
+	path = kaden
+	url = https://github.com/kadenzipfel/scv-scan
