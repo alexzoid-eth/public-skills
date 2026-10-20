@@ -19,3 +19,15 @@
 [submodule "kaden"]
 	path = kaden
 	url = https://github.com/kadenzipfel/scv-scan
+[submodule "cyfrin"]
+	path = cyfrin
+	url = https://github.com/Cyfrin/audit-checklist
+[submodule "crytic"]
+	path = crytic
+	url = https://github.com/crytic/properties
+[submodule "runtimeverification"]
+	path = runtimeverification
+	url = https://github.com/runtimeverification/ercx-tests
+[submodule "composablesecurity"]
+	path = composablesecurity
+	url = https://github.com/ComposableSecurity/SCSVS
